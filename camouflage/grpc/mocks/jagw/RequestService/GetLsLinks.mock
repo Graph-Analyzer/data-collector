@@ -1,0 +1,28 @@
+{
+	"ls_links": [
+		{
+			"key": "2_0_2_0_0000.0000.0007_2001:db8:78::7_0000.0000.0008_2001:db8:78::8",
+			"id": "",
+			"router_hash": "",
+			"router_ip": "",
+			"domain_id": "0",
+			"peer_hash": "",
+			"peer_ip": "",
+			"peer_asn": 0,
+			"timestamp": "",
+			"igp_router_id": "",
+			"protocol": "",
+			"area_id": "",
+			"nexthop": "",
+			"mtid": null,
+			"local_link_id": "",
+			"remote_link_id": "",
+			"local_link_ip": "",
+			"remote_link_ip": "",
+			"igp_metric": 1,
+			"remote_node_hash": "",
+			"local_node_hash": "",
+			"remote_igp_router_id": ""
+		}
+	]
+}

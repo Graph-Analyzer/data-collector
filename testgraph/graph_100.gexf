@@ -1,0 +1,1320 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-10-06">
+    <creator>NetworkX 2.8.7</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="2" title="customer" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+      <attribute id="1" title="peers" type="long" />
+    </attributes>
+    <nodes>
+      <node id="0" label="0">
+        <attvalues>
+          <attvalue for="0" value="T" />
+        </attvalues>
+      </node>
+      <node id="1" label="1">
+        <attvalues>
+          <attvalue for="0" value="T" />
+        </attvalues>
+      </node>
+      <node id="2" label="2">
+        <attvalues>
+          <attvalue for="0" value="T" />
+        </attvalues>
+      </node>
+      <node id="3" label="3">
+        <attvalues>
+          <attvalue for="0" value="T" />
+        </attvalues>
+      </node>
+      <node id="4" label="4">
+        <attvalues>
+          <attvalue for="0" value="M" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="5" label="5">
+        <attvalues>
+          <attvalue for="0" value="M" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="6" label="6">
+        <attvalues>
+          <attvalue for="0" value="M" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="7" label="7">
+        <attvalues>
+          <attvalue for="0" value="M" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="8" label="8">
+        <attvalues>
+          <attvalue for="0" value="M" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="9" label="9">
+        <attvalues>
+          <attvalue for="0" value="M" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="10" label="10">
+        <attvalues>
+          <attvalue for="0" value="M" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="11" label="11">
+        <attvalues>
+          <attvalue for="0" value="M" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="12" label="12">
+        <attvalues>
+          <attvalue for="0" value="M" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="13" label="13">
+        <attvalues>
+          <attvalue for="0" value="M" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="14" label="14">
+        <attvalues>
+          <attvalue for="0" value="M" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="15" label="15">
+        <attvalues>
+          <attvalue for="0" value="M" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="16" label="16">
+        <attvalues>
+          <attvalue for="0" value="M" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="17" label="17">
+        <attvalues>
+          <attvalue for="0" value="M" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="18" label="18">
+        <attvalues>
+          <attvalue for="0" value="M" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="19" label="19">
+        <attvalues>
+          <attvalue for="0" value="CP" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="20" label="20">
+        <attvalues>
+          <attvalue for="0" value="CP" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="21" label="21">
+        <attvalues>
+          <attvalue for="0" value="CP" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="22" label="22">
+        <attvalues>
+          <attvalue for="0" value="CP" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="23" label="23">
+        <attvalues>
+          <attvalue for="0" value="CP" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="24" label="24">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="25" label="25">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="26" label="26">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="27" label="27">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="28" label="28">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="29" label="29">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="30" label="30">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="31" label="31">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="32" label="32">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="33" label="33">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="34" label="34">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="35" label="35">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="36" label="36">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="37" label="37">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="38" label="38">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="39" label="39">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="40" label="40">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="41" label="41">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="42" label="42">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="43" label="43">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="44" label="44">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="45" label="45">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="46" label="46">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="47" label="47">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="48" label="48">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="49" label="49">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="50" label="50">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="51" label="51">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="52" label="52">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="53" label="53">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="54" label="54">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="55" label="55">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="56" label="56">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="57" label="57">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="58" label="58">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="59" label="59">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="60" label="60">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="61" label="61">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="62" label="62">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="63" label="63">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="64" label="64">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="65" label="65">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="66" label="66">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="67" label="67">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="68" label="68">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="69" label="69">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="70" label="70">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="71" label="71">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="72" label="72">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="73" label="73">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="74" label="74">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="75" label="75">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="76" label="76">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="77" label="77">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="78" label="78">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="79" label="79">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="80" label="80">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="81" label="81">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="82" label="82">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="83" label="83">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="84" label="84">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="85" label="85">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="86" label="86">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="87" label="87">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="88" label="88">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="89" label="89">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="90" label="90">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="91" label="91">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="92" label="92">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="93" label="93">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="94" label="94">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="95" label="95">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="96" label="96">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="97" label="97">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="98" label="98">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="99" label="99">
+        <attvalues>
+          <attvalue for="0" value="C" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="0" target="1" id="0" type="peer" weight="1">
+        <attvalues>
+          <attvalue for="2" value="none" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="2" id="1" type="peer" weight="1">
+        <attvalues>
+          <attvalue for="2" value="none" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="3" id="2" type="peer" weight="1">
+        <attvalues>
+          <attvalue for="2" value="none" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="5" id="3" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="6" id="4" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="7" id="5" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="8" id="6" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="12" id="7" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="15" id="8" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="32" id="9" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="32" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="84" id="10" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="84" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="94" id="11" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="94" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="2" id="12" type="peer" weight="1">
+        <attvalues>
+          <attvalue for="2" value="none" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="3" id="13" type="peer" weight="1">
+        <attvalues>
+          <attvalue for="2" value="none" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="4" id="14" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="14" id="15" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="16" id="16" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="17" id="17" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="20" id="18" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="57" id="19" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="57" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="62" id="20" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="62" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="3" id="21" type="peer" weight="1">
+        <attvalues>
+          <attvalue for="2" value="none" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="4" id="22" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="5" id="23" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="6" id="24" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="7" id="25" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="9" id="26" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="11" id="27" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="13" id="28" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="14" id="29" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="20" id="30" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="22" id="31" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="23" id="32" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="80" id="33" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="80" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="81" id="34" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="81" />
+        </attvalues>
+      </edge>
+      <edge source="3" target="6" id="35" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="3" target="11" id="36" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="4" target="8" id="37" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="4" target="87" id="38" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="87" />
+        </attvalues>
+      </edge>
+      <edge source="4" target="89" id="39" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="89" />
+        </attvalues>
+      </edge>
+      <edge source="4" target="16" id="40" type="peer" weight="1">
+        <attvalues>
+          <attvalue for="2" value="none" />
+        </attvalues>
+      </edge>
+      <edge source="4" target="5" id="41" type="peer" weight="1">
+        <attvalues>
+          <attvalue for="2" value="none" />
+        </attvalues>
+      </edge>
+      <edge source="4" target="6" id="42" type="peer" weight="1">
+        <attvalues>
+          <attvalue for="2" value="none" />
+        </attvalues>
+      </edge>
+      <edge source="4" target="9" id="43" type="peer" weight="1">
+        <attvalues>
+          <attvalue for="2" value="none" />
+        </attvalues>
+      </edge>
+      <edge source="4" target="10" id="44" type="peer" weight="1">
+        <attvalues>
+          <attvalue for="2" value="none" />
+        </attvalues>
+      </edge>
+      <edge source="4" target="11" id="45" type="peer" weight="1">
+        <attvalues>
+          <attvalue for="2" value="none" />
+        </attvalues>
+      </edge>
+      <edge source="4" target="12" id="46" type="peer" weight="1">
+        <attvalues>
+          <attvalue for="2" value="none" />
+        </attvalues>
+      </edge>
+      <edge source="5" target="9" id="47" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="5" target="10" id="48" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="5" target="17" id="49" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="5" target="22" id="50" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="5" target="86" id="51" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="86" />
+        </attvalues>
+      </edge>
+      <edge source="5" target="8" id="52" type="peer" weight="1">
+        <attvalues>
+          <attvalue for="2" value="none" />
+        </attvalues>
+      </edge>
+      <edge source="5" target="14" id="53" type="peer" weight="1">
+        <attvalues>
+          <attvalue for="2" value="none" />
+        </attvalues>
+      </edge>
+      <edge source="5" target="15" id="54" type="peer" weight="1">
+        <attvalues>
+          <attvalue for="2" value="none" />
+        </attvalues>
+      </edge>
+      <edge source="6" target="20" id="55" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="6" target="25" id="56" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="25" />
+        </attvalues>
+      </edge>
+      <edge source="6" target="29" id="57" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="29" />
+        </attvalues>
+      </edge>
+      <edge source="6" target="36" id="58" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="36" />
+        </attvalues>
+      </edge>
+      <edge source="6" target="52" id="59" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="52" />
+        </attvalues>
+      </edge>
+      <edge source="6" target="56" id="60" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="56" />
+        </attvalues>
+      </edge>
+      <edge source="6" target="63" id="61" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="63" />
+        </attvalues>
+      </edge>
+      <edge source="6" target="64" id="62" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="64" />
+        </attvalues>
+      </edge>
+      <edge source="6" target="71" id="63" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="6" target="73" id="64" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="73" />
+        </attvalues>
+      </edge>
+      <edge source="6" target="82" id="65" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="82" />
+        </attvalues>
+      </edge>
+      <edge source="6" target="95" id="66" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="95" />
+        </attvalues>
+      </edge>
+      <edge source="7" target="24" id="67" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="7" target="27" id="68" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="27" />
+        </attvalues>
+      </edge>
+      <edge source="7" target="30" id="69" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="30" />
+        </attvalues>
+      </edge>
+      <edge source="7" target="39" id="70" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="39" />
+        </attvalues>
+      </edge>
+      <edge source="7" target="42" id="71" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="42" />
+        </attvalues>
+      </edge>
+      <edge source="7" target="66" id="72" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="66" />
+        </attvalues>
+      </edge>
+      <edge source="7" target="70" id="73" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="70" />
+        </attvalues>
+      </edge>
+      <edge source="7" target="88" id="74" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="88" />
+        </attvalues>
+      </edge>
+      <edge source="7" target="16" id="75" type="peer" weight="1">
+        <attvalues>
+          <attvalue for="2" value="none" />
+        </attvalues>
+      </edge>
+      <edge source="7" target="17" id="76" type="peer" weight="1">
+        <attvalues>
+          <attvalue for="2" value="none" />
+        </attvalues>
+      </edge>
+      <edge source="8" target="19" id="77" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="8" target="35" id="78" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="35" />
+        </attvalues>
+      </edge>
+      <edge source="8" target="53" id="79" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="53" />
+        </attvalues>
+      </edge>
+      <edge source="8" target="59" id="80" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="59" />
+        </attvalues>
+      </edge>
+      <edge source="8" target="65" id="81" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="65" />
+        </attvalues>
+      </edge>
+      <edge source="8" target="78" id="82" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="78" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="10" id="83" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="23" id="84" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="26" id="85" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="26" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="40" id="86" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="40" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="60" id="87" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="60" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="79" id="88" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="79" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="90" id="89" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="90" />
+        </attvalues>
+      </edge>
+      <edge source="10" target="13" id="90" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="10" target="16" id="91" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="10" target="92" id="92" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="92" />
+        </attvalues>
+      </edge>
+      <edge source="10" target="97" id="93" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="97" />
+        </attvalues>
+      </edge>
+      <edge source="11" target="16" id="94" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="11" target="17" id="95" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="11" target="31" id="96" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="31" />
+        </attvalues>
+      </edge>
+      <edge source="11" target="34" id="97" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="34" />
+        </attvalues>
+      </edge>
+      <edge source="11" target="38" id="98" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="38" />
+        </attvalues>
+      </edge>
+      <edge source="11" target="41" id="99" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="41" />
+        </attvalues>
+      </edge>
+      <edge source="11" target="49" id="100" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="49" />
+        </attvalues>
+      </edge>
+      <edge source="11" target="54" id="101" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="54" />
+        </attvalues>
+      </edge>
+      <edge source="11" target="61" id="102" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="61" />
+        </attvalues>
+      </edge>
+      <edge source="11" target="85" id="103" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="85" />
+        </attvalues>
+      </edge>
+      <edge source="11" target="96" id="104" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="96" />
+        </attvalues>
+      </edge>
+      <edge source="11" target="15" id="105" type="peer" weight="1">
+        <attvalues>
+          <attvalue for="2" value="none" />
+        </attvalues>
+      </edge>
+      <edge source="12" target="15" id="106" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="12" target="21" id="107" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="12" target="33" id="108" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="33" />
+        </attvalues>
+      </edge>
+      <edge source="12" target="45" id="109" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="45" />
+        </attvalues>
+      </edge>
+      <edge source="12" target="46" id="110" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="46" />
+        </attvalues>
+      </edge>
+      <edge source="12" target="51" id="111" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="51" />
+        </attvalues>
+      </edge>
+      <edge source="12" target="58" id="112" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="58" />
+        </attvalues>
+      </edge>
+      <edge source="12" target="68" id="113" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="68" />
+        </attvalues>
+      </edge>
+      <edge source="12" target="72" id="114" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="72" />
+        </attvalues>
+      </edge>
+      <edge source="12" target="91" id="115" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="91" />
+        </attvalues>
+      </edge>
+      <edge source="14" target="19" id="116" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="14" target="37" id="117" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="37" />
+        </attvalues>
+      </edge>
+      <edge source="14" target="48" id="118" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="48" />
+        </attvalues>
+      </edge>
+      <edge source="14" target="55" id="119" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="55" />
+        </attvalues>
+      </edge>
+      <edge source="14" target="75" id="120" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="75" />
+        </attvalues>
+      </edge>
+      <edge source="14" target="83" id="121" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="83" />
+        </attvalues>
+      </edge>
+      <edge source="14" target="17" id="122" type="peer" weight="1">
+        <attvalues>
+          <attvalue for="2" value="none" />
+        </attvalues>
+      </edge>
+      <edge source="15" target="18" id="123" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="15" target="21" id="124" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="15" target="43" id="125" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="43" />
+        </attvalues>
+      </edge>
+      <edge source="15" target="47" id="126" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="15" target="50" id="127" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="50" />
+        </attvalues>
+      </edge>
+      <edge source="15" target="67" id="128" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="67" />
+        </attvalues>
+      </edge>
+      <edge source="15" target="69" id="129" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="69" />
+        </attvalues>
+      </edge>
+      <edge source="15" target="74" id="130" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="74" />
+        </attvalues>
+      </edge>
+      <edge source="15" target="76" id="131" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="76" />
+        </attvalues>
+      </edge>
+      <edge source="15" target="77" id="132" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="77" />
+        </attvalues>
+      </edge>
+      <edge source="15" target="16" id="133" type="peer" weight="1">
+        <attvalues>
+          <attvalue for="2" value="none" />
+        </attvalues>
+      </edge>
+      <edge source="16" target="99" id="134" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="99" />
+        </attvalues>
+      </edge>
+      <edge source="16" target="18" id="135" type="peer" weight="1">
+        <attvalues>
+          <attvalue for="2" value="none" />
+        </attvalues>
+      </edge>
+      <edge source="17" target="93" id="136" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="93" />
+        </attvalues>
+      </edge>
+      <edge source="18" target="21" id="137" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="18" target="28" id="138" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="28" />
+        </attvalues>
+      </edge>
+      <edge source="18" target="44" id="139" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="44" />
+        </attvalues>
+      </edge>
+      <edge source="18" target="98" id="140" type="transit" weight="1">
+        <attvalues>
+          <attvalue for="2" value="98" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

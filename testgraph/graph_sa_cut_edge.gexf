@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-10-06">
+    <creator>NetworkX 2.8.7</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="1" label="XR-1">
+      </node>
+      <node id="2" label="XR-2">
+      </node>
+      <node id="3" label="XR-3">
+      </node>
+      <node id="4" label="XR-4">
+      </node>
+      <node id="5" label="XR-5">
+      </node>
+      <node id="6" label="XR-6">
+      </node>
+      <node id="7" label="XR-7">
+      </node>
+      <node id="8" label="XR-8">
+      </node>
+    </nodes>
+    <edges>
+      <edge source="1" target="3" id="0" weight="1">
+      </edge>
+      <edge source="1" target="2" id="1" weight="1">
+      </edge>
+      <edge source="2" target="3" id="2" weight="1">
+      </edge>
+      <edge source="2" target="4" id="3" weight="1">
+      </edge>
+      <edge source="4" target="3" id="5" weight="1">
+      </edge>
+      <edge source="4" target="5" id="6" weight="1">
+      </edge>
+      <edge source="6" target="7" id="7" weight="1">
+      </edge>
+      <edge source="6" target="8" id="8" weight="1">
+      </edge>
+      <edge source="7" target="8" id="9" weight="1">
+      </edge>
+      <edge source="5" target="6" id="12" weight="1">
+      </edge>
+      <edge source="5" target="7" id="13" weight="1">
+      </edge>
+    </edges>
+  </graph>
+</gexf>

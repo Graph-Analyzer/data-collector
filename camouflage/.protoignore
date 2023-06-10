@@ -1,0 +1,4 @@
+./grpc/protos/base.proto
+./grpc/protos/enums.proto
+./grpc/protos/filters.proto
+./grpc/protos/topology.proto

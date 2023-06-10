@@ -1,0 +1,13 @@
+syntax = "proto3";
+package graphAnalyzerDataCollector;
+option go_package = "input/gexf/listener/pb";
+
+import "google/protobuf/empty.proto";
+
+message HealthCheckResponse {
+  bool healthy = 1;
+}
+
+service HealthCheckService {
+  rpc Check(google.protobuf.Empty) returns (HealthCheckResponse);
+}

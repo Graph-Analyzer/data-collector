@@ -1,0 +1,135 @@
+{
+  "action": "update",
+  "key": "2_0_0_0000.0000.0001",
+  "ls_node": {
+    "key": "2_0_0_0000.0000.0001",
+    "id": "ls_node/2_0_0_0000.0000.0001",
+    "router_hash": "4641ab6dd73c54b3f739151753e3928a",
+    "domain_id": "0",
+    "router_ip": "2001:db8:4444::4",
+    "peer_hash": "34f10e3007f05e0837b00f8c7cb3c7e5",
+    "peer_ip": "2001:db8:5555::5",
+    "peer_asn": 64097,
+    "timestamp": "2022-11-15T15:32:13.000302858Z",
+    "igp_router_id": "0000.0000.0001",
+    "asn": 64097,
+    "mtid": [
+      {
+        "o_flag": true,
+        "a_flag": false,
+        "mtid": 2
+      }
+    ],
+    "area_id": "49.0001",
+    "protocol": "IS-IS Level 2",
+    "protocol_id": 2,
+    "name": "XR-1",
+    "is_prepolicy": false,
+    "is_adj_rib_in": false
+  }
+}
+====
+{
+    "action": "update",
+    "key": "2_0_0_0000.0000.0001",
+    "ls_node": {
+        "key": "2_0_0_0000.0000.0001",
+        "id": "ls_node/2_0_0_0000.0000.0001",
+        "router_hash": "4641ab6dd73c54b3f739151753e3928a",
+        "domain_id": "0",
+        "router_ip": "2001:db8:4444::4",
+        "peer_hash": "34f10e3007f05e0837b00f8c7cb3c7e5",
+        "peer_ip": "2001:db8:5555::5",
+        "peer_asn": 64097,
+        "timestamp": "2022-11-15T15:32:13.000302858Z",
+        "igp_router_id": "0000.0000.0001",
+        "asn": 64097,
+        "mtid": [
+            {
+                "o_flag": true,
+                "a_flag": false,
+                "mtid": 2
+            }
+        ],
+        "area_id": "49.0001",
+        "protocol": "IS-IS Level 2",
+        "protocol_id": 2,
+        "name": "XR-1",
+        "is_prepolicy": false,
+        "is_adj_rib_in": false
+    }
+}
+====
+{
+    "action": "del",
+    "key": "2_0_0_0000.0000.0001"
+}
+====
+{
+    "action": "del",
+    "key": "2_0_0_0000.0000.0001"
+}
+====
+{
+    "delay": {{num_between lower=10000 upper=16000}},
+    "action": "add",
+    "key": "2_0_0_0000.0000.0001",
+    "ls_node": {
+        "key": "2_0_0_0000.0000.0001",
+        "id": "ls_node/2_0_0_0000.0000.0001",
+        "router_hash": "4641ab6dd73c54b3f739151753e3928a",
+        "domain_id": "0",
+        "router_ip": "2001:db8:4444::4",
+        "peer_hash": "34f10e3007f05e0837b00f8c7cb3c7e5",
+        "peer_ip": "2001:db8:5555::5",
+        "peer_asn": 64097,
+        "timestamp": "2022-11-15T15:35:28.000722217Z",
+        "igp_router_id": "0000.0000.0001",
+        "asn": 64097,
+        "mtid": [
+            {
+                "o_flag": false,
+                "a_flag": false,
+                "mtid": 2
+            }
+        ],
+        "area_id": "49.0001",
+        "protocol": "IS-IS Level 2",
+        "protocol_id": 2,
+        "name": "XR-1",
+        "is_prepolicy": false,
+        "is_adj_rib_in": false
+    }
+}
+====
+{
+    "delay": {{num_between lower=5000 upper=6000}},
+    "action": "update",
+    "key": "2_0_0_0000.0000.0005",
+    "ls_node": {
+        "key": "2_0_0_0000.0000.0005",
+        "id": "ls_node/2_0_0_0000.0000.0005",
+        "router_hash": "4641ab6dd73c54b3f739151753e3928a",
+        "domain_id": "0",
+        "router_ip": "2001:db8:4444::4",
+        "peer_hash": "532c330e3b23d596ef6c3d7ded1420ad",
+        "peer_ip": "2001:db8:1111::1",
+        "peer_asn": 64097,
+        "timestamp": "2022-11-15T15:39:56.000931999Z",
+        "igp_router_id": "0000.0000.0005",
+        "asn": 64097,
+        "mtid": [
+            {
+                "o_flag": false,
+                "a_flag": false,
+                "mtid": 2
+            }
+        ],
+        "area_id": "49.0001",
+        "protocol": "IS-IS Level 2",
+        "protocol_id": 2,
+        "name": "XR-5",
+        "is_prepolicy": false,
+        "is_adj_rib_in": false
+    }
+}

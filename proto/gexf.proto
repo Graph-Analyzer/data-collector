@@ -1,0 +1,16 @@
+syntax = "proto3";
+package graphAnalyzerDataCollector;
+option go_package = "input/gexf/listener/pb";
+
+message GexfRequest {
+  bytes file_content = 1;
+  string network_name = 2;
+}
+
+message GexfResponse {
+  bool success = 1;
+}
+
+service GexfService {
+  rpc ProcessGexf(GexfRequest) returns (GexfResponse);
+}
